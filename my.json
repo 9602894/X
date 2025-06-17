@@ -249,6 +249,9 @@
 "lives": [
 {"name": "🍳┃台湾全岛直播","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://59.125.210.231:4433"},
 {"name": "🚲┃AKTV","type": 0,"url": "https://codeberg.org/supkiss/misscc/raw/branch/main/aktv1.txt","playerType":1},
+{"name": "🥬┃自制播单zxc","type":0,"url":"https://codeberg.org/supkiss/misscc/raw/branch/main/zxc.txt","playerType":1},
+
+
 {"name": "🦸┃tangTV直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u","playerType":1},
 {"name": "📢┃xTV直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/live_ipv4.m3u","playerType":1},
 {"name": "👟┃SuperMAN直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/result.m3u","playerType":1},
