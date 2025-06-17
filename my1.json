@@ -1,17 +1,9 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749884580068/f0614.jpg;md5;44f446a8a641a4e0c34e9a9657f3b7e2",
-"wallpaper":"http://王二小放牛娃牛逼.999888987.xyz","logo":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/yellow.gif",
-
-
-	
-
-
-	
 
 
 
 "lives": [
-
+{"name": "🍳┃台湾全岛直播","api": "csp_MQiTV","jar": "./jar/custom_spider.jar","ext": "https://59.125.210.231:4433"},
 {"name": "🚲┃AKTV","type": 0,"url": "https://codeberg.org/supkiss/misscc/raw/branch/main/aktv1.txt","playerType":1},
 {"name": "🍿┃国内电视秒播","type": 0,"url": "https://codeberg.org/supkiss/misscc/raw/branch/main/miaobo.txt","playerType":1},	
 
